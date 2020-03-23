@@ -1,0 +1,19 @@
+{
+  "name": "workout-tracker",
+  "version": "1.0.0",
+  "description": "track your workouts",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lorna-IT/Workout-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lorna-IT/Workout-Tracker/issues"
+  },
+  "homepage": "https://github.com/Lorna-IT/Workout-Tracker#readme"
+}
